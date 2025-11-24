@@ -1,32 +1,17 @@
 [
-  {
-    "code": "ilalvip2025",
-    "expiresAt": null,
-    "claimedByDeviceHash": null
-  },
-  {
-    "code": "berkahilmu",
-    "expiresAt": null,
-    "claimedByDeviceHash": "2d66c2eb1"
-  },
-  {
-    "code": "shorofmaster",
-    "expiresAt": null,
-    "claimedByDeviceHash": "2d66c2eb1"
-  },
-  {
-    "code": "salik",
-    "expiresAt": 1764608194654,
-    "claimedByDeviceHash": null
-  },
-  {
-    "code": "tes",
-    "expiresAt": 1764610874644,
-    "claimedByDeviceHash": "2d66c2eb1"
-  },
-  {
-    "code": "wok",
-    "expiresAt": 1764611576529,
-    "claimedByDeviceHash": "2d66c2eb1"
-  }
+    {
+        "code": "shorofmaster",
+        "expiresAt": null,
+        "claimedByDeviceHash": "2d66c2eb1"
+    },
+    {
+        "code": "eada",
+        "expiresAt": null,
+        "claimedByDeviceHash": null
+    },
+    {
+        "code": "saz",
+        "expiresAt": null,
+        "claimedByDeviceHash": null
+    }
 ]
