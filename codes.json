@@ -7,12 +7,12 @@
   {
     "code": "berkahilmu",
     "expiresAt": null,
-    "claimedByDeviceHash": null
+    "claimedByDeviceHash": "2d66c2eb1"
   },
   {
     "code": "shorofmaster",
     "expiresAt": null,
-    "claimedByDeviceHash": null
+    "claimedByDeviceHash": "2d66c2eb1"
   },
   {
     "code": "salik",
@@ -22,11 +22,11 @@
   {
     "code": "tes",
     "expiresAt": 1764610874644,
-    "claimedByDeviceHash": null
+    "claimedByDeviceHash": "2d66c2eb1"
   },
   {
     "code": "wok",
     "expiresAt": 1764611576529,
-    "claimedByDeviceHash": null
+    "claimedByDeviceHash": "2d66c2eb1"
   }
 ]
