@@ -8,5 +8,10 @@
         "code": "habibi",
         "expiresAt": null,
         "claimedByDeviceHash": null
+    },
+    {
+        "code": "z",
+        "expiresAt": 1764626380487,
+        "claimedByDeviceHash": null
     }
 ]
